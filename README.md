@@ -3,3 +3,4 @@
 =======
 "Automating AWS with Terraform" 
 >>>>>>> main
+"We are using git branches to track changes" 
